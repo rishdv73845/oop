@@ -7,7 +7,7 @@ public class Homework1 {
         int max = 5;
 
         for (int i = 0; i <= max; i++) {
-            System.out.print("Enter input " + i + "/" + max + ":");
+            System.out.print("Enter input " + i + "/" + max + ": ");
             int input = sc.nextInt();
             sum += input;
             System.out.println("Current sum: " + sum);

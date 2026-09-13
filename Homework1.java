@@ -4,7 +4,7 @@ public class Homework1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int sum = 0;
-        int max = 5;
+        int max = 4;
 
         for (int i = 0; i <= max; i++) {
             System.out.print("Enter input " + i + "/" + max + ": ");
